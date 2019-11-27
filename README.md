@@ -1,1 +1,1 @@
-# Prostir
+![Prostir Cover](assets/img/cover.jpg)
